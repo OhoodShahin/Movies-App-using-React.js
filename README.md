@@ -1,4 +1,3 @@
-#Movies App with ReactJS
 This project is a movie app, developed using React.js, aims to provide users with a smooth experience for browsing movies, managing watchlists, and registration. It utilizes modern React features and libraries to improve performance, maintainability, and user interaction.
 
 # Getting Started with Create React App
